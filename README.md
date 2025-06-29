@@ -10,7 +10,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 - **Description**: Compare the vitamin contents in organic and inorganic blueberries as well as apples, degradation of simeticone into cyclic siloxanes (D4, D5, D6) using GC-FID and GC-MS.
 - **Techniques**: Freeze-drying, extraction, Liquid Chromatography (LC-DAD), sample preparation.
 - **Outcome**: Finished meaningful report, gain experience in method development.
-- 🔗 [View Repository](https://github.com/yourusername/simeticone-degradation)
+- 🔗 [View Repository]([https://github.com/yourusername/simeticone-degradation](https://github.com/Miriam615/project/tree/main/chemometric-project))
 
 ---
 
