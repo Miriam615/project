@@ -30,7 +30,15 @@ Welcome! This repository showcases a selection of my academic and research proje
 
 ---
 
-### 📘 4. Thesis Work – Degradation of simethicone
+### 📊 4. Formulation Project
+- **Description**: Design formulation for high concentration monoclobol antibody and test its performance
+- **Tools**: DLS, prob drum fluoresence analysis, NanoDrop, texture analysis
+- **Outcome**: Gained experience in biologics product formulation.
+- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/formulation%20project)
+
+---
+
+### 📘 5. Thesis Work – Degradation of simethicone
 - **Title**: *Degradation of simethicone - a study on formation of D4, D5, D6*
 - **Description**: Design experiment and study what causes simethicone degradade in pharmaceutical industry production process
 - **Techniques**: GC-FID, GC-MS, design of experiment, extraction
