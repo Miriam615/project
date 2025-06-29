@@ -18,7 +18,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 - **Description**: Designed and conducted lab experiments focused on quantitative chemical analysis.
 - **Techniques**: Spectrophotometry, titration, chromatography.
 - **Outcome**: Gained practical experience in using quality tools, designing cleanrooms, and writing quality assurance report.
-- 🔗 [View Repository](https://github.com/yourusername/analytical-chemistry-project)
+- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/product%20quality%20and%20safety%20project)
 
 ---
 
