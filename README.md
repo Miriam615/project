@@ -26,7 +26,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 - **Description**: Chemometric data analysis on different types of data (biologicals, food technology & chemical engineering)
 - **Tools**: Python, R
 - **Outcome**: Identified patterns and relationships among variables.
-- 🔗 [View Repository](https://github.com/yourusername/chemometric-study)
+- 🔗 [View Repository]((https://github.com/Miriam615/project/tree/main/chemometric-project)
 
 ---
 
