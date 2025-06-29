@@ -10,7 +10,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 - **Description**: Compare the vitamin contents in organic and inorganic blueberries as well as apples, degradation of simeticone into cyclic siloxanes (D4, D5, D6) using GC-FID and GC-MS.
 - **Techniques**: Freeze-drying, extraction, Liquid Chromatography (LC-DAD), sample preparation.
 - **Outcome**: Finished meaningful report, gain experience in method development.
-- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/chemometric-project)
+- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/analytical%20project)
 
 ---
 
@@ -26,7 +26,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 - **Description**: Chemometric data analysis on different types of data (biologicals, food technology & chemical engineering)
 - **Tools**: Python, R
 - **Outcome**: Identified patterns and relationships among variables.
-- 🔗 [View Repository]((https://github.com/Miriam615/project/tree/main/chemometric-project)
+- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/chemometric-project)
 
 ---
 
