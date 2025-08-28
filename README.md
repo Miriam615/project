@@ -6,7 +6,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 
 ## 📦 Contents
 
-### 🧴 1. Analytical Chemistry Project
+### 🥼 1. Analytical Chemistry Project
 - **Description**: Compare the vitamin contents in organic and inorganic blueberries as well as apples, degradation of simeticone into cyclic siloxanes (D4, D5, D6) using GC-FID and GC-MS.
 - **Techniques**: Freeze-drying, extraction, Liquid Chromatography (LC-DAD), sample preparation.
 - **Outcome**: Finished meaningful report, gain experience in method development.
@@ -30,7 +30,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 
 ---
 
-### 📊 4. Formulation Project
+### 💊 4. Formulation Project
 - **Description**: Design formulation for high concentration monoclobol antibody and test its performance
 - **Tools**: DLS, prob drum fluoresence analysis, NanoDrop, texture analysis
 - **Outcome**: Gained experience in biologics product formulation.
@@ -46,8 +46,13 @@ Welcome! This repository showcases a selection of my academic and research proje
 - 📋 Unfortunately the report of the project is confidencial, but feel free to discuss if you are interested.
 ---
 
-## 📌 About Me
+### 📊 6. To be uploaded！
+- **Description**: These are the data analysis projects I do for fun in my free time, data comes from mainly Kraggle.com, but also from open experimental data...
+- **Techniques**: bioinformatics, chemometric
+- **Outcome**: OBS, projects are still undergoing!
 
+  
+## 📌 About Me
 I am a graduated master student with a strong interest in analytical chemistry, pharmaceutical technology and lab working. 
 
 📧 Contact: yanyang.pei@qq.com  
