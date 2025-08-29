@@ -14,19 +14,19 @@ Welcome! This repository showcases a selection of my academic and research proje
 
 ---
 
-### ⚗️ 2. Product and Quality Safety Project
-- **Description**: Designed and conducted lab experiments focused on quantitative chemical analysis.
-- **Techniques**: Spectrophotometry, titration, chromatography.
-- **Outcome**: Gained practical experience in using quality tools, designing cleanrooms, and writing quality assurance report.
-- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/product%20quality%20and%20safety%20project)
-
----
-
-### 📊 3. Chemometric Study
+### 📊 2. Chemometric Study
 - **Description**: Chemometric data analysis on different types of data (biologicals, food technology & chemical engineering)
 - **Tools**: Python, R
 - **Outcome**: Identified patterns and relationships among variables.
 - 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/chemometric-project)
+
+---
+
+- ### ⚗️ 3. Product and Quality Safety Project
+- **Description**: Designed and conducted lab experiments focused on quantitative chemical analysis.
+- **Techniques**: Spectrophotometry, titration, chromatography.
+- **Outcome**: Gained practical experience in using quality tools, designing cleanrooms, and writing quality assurance report.
+- 🔗 [View Repository](https://github.com/Miriam615/project/tree/main/product%20quality%20and%20safety%20project)
 
 ---
 
