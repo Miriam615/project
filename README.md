@@ -47,7 +47,7 @@ Welcome! This repository showcases a selection of my academic and research proje
 ---
 
 ### 📊 6. To be uploaded！
-- **Description**: These are the data analysis projects I do for fun in my free time, data comes from mainly Kraggle.com, but also from open experimental data...
+- **Description**: These are the data analysis projects I do for fun in my free time, data comes from mainly Kaggle.com, but also from open experimental data...
 - **Techniques**: bioinformatics, chemometric
 - **Outcome**: OBS, projects are still undergoing!
 
