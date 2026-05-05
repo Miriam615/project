@@ -17,9 +17,8 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
 
-# ==========================================
+
 # 1. CONFIDENCE ELLIPSE (corrected rotation)
-# ==========================================
 def confidence_ellipse(x, y, ax, n_std=2.447, facecolor='none', **kwargs):
     """
     Draw a confidence ellipse for 2D data (x, y).
@@ -59,9 +58,8 @@ def confidence_ellipse(x, y, ax, n_std=2.447, facecolor='none', **kwargs):
     return ax.add_patch(ellipse)
 
 
-# ==========================================
+
 # 2. LOAD DATA
-# ==========================================
 folder_path = "C:/Users/user/OneDrive - Chalmers/Desktop/yanyang/MVSA/imagepipeline/folded image"
 os.chdir(folder_path)
 mat_files = sorted(glob.glob('*.mat'))   # sorted for reproducibility
@@ -78,9 +76,8 @@ for file in mat_files:
     print(f"  {file}  →  {data_raw.shape[0]} rows, {data_raw.shape[1]} cols")
 
 
-# ==========================================
+
 # 3. COMBINED PCA
-# ==========================================
 print("\nScaling and running PCA...")
 combined_data = np.vstack(data_list)
 
@@ -95,9 +92,8 @@ var_pc2 = pca.explained_variance_ratio_[1] * 100
 print(f"  PC1: {var_pc1:.1f}%   PC2: {var_pc2:.1f}%")
 
 
-# ==========================================
+
 # 4. SLICE PCA RESULTS BACK TO EACH FILE
-# ==========================================
 # Subgroup containers
 subgroups = {
     '6ppd':  {'x': [], 'y': [], 'color': 'red'},
@@ -146,9 +142,7 @@ for i, file_name in enumerate(mat_files):
         print(f"  WARNING: '{clean_name}' did not match any subgroup — skipped from ellipses.")
 
 
-# ==========================================
 # 5. DRAW ELLIPSES
-# ==========================================
 ellipse_handles = []
 
 for label, grp in subgroups.items():
@@ -177,9 +171,8 @@ for label, grp in subgroups.items():
     ellipse_handles.append(dummy)
 
 
-# ==========================================
+
 # 6. LEGENDS (two separate, both visible)
-# ==========================================
 # Legend 1 — individual files (scatter), upper left
 legend1 = ax.legend(
     handles=scatter_handles,
@@ -206,9 +199,7 @@ legend2 = ax.legend(
 )
 
 
-# ==========================================
-# 7. FINAL FORMATTING
-# ==========================================
+# 7. FORMATTING
 ax.axhline(0, color='grey', linewidth=0.5, linestyle=':')
 ax.axvline(0, color='grey', linewidth=0.5, linestyle=':')
 ax.set_title('PCA Score Plot with 95% Confidence Ellipses', fontsize=13)
